@@ -1,4 +1,4 @@
-# FIRST and FOLLOW computation
+#lab 5- FIRST and FOLLOW computation
 
 grammar = {
     'E': ['TR'],
