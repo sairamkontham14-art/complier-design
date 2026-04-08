@@ -1,4 +1,4 @@
-# Regular Expression to NFA (Simple Version)
+# lab 2- Regular Expression to NFA (Simple Version)
 
 class NFA:
     def __init__(self, start, accept, transitions):
