@@ -1,4 +1,4 @@
-# NFA to DFA Conversion using Subset Construction
+#lab 3- NFA to DFA Conversion using Subset Construction
 
 def nfa_to_dfa(nfa, start_state, final_states):
     dfa = {}
