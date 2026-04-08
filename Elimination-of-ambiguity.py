@@ -1,4 +1,4 @@
-# Elimination of Left Recursion
+#lab 4- Elimination of Left Recursion
 
 def eliminate_left_recursion(non_terminal, productions):
     alpha = []
